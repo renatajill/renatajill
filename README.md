@@ -1,7 +1,16 @@
 - 👋 Hi, I’m @renatajill
-- I’m interested in expanding my skills in web design and development!
-- 🌱 I’m currently learning about CSS and Javascript, but also how to use a variety of API's, Firebase, React and Bootstrap.
-- 💞️ I’m looking to collaborate on projects that will enhance my skills and allow me to drive positive change.
+- 🌱 Web Design and Development Student, interested in expanding my skills
+
+💻 Skills: HTML, JS, CSS, Bootstrap, React, Firebase
+🎨 Design Tools: Figma, Adobe Illustrator, Photoshop, Adobe XD, After Effects
+
+🌟 Passionate about creating immersive web experiences and intuitive user interfaces.
+💞️ Excited to collaborate on projects that push boundaries and solve real-world problems.
+
+🔗 Connect with me:
+📧 Email: renata.vicporto@gmail.com
+
+
 
 
 <!---
